@@ -1,0 +1,40 @@
+*{
+    background-color: grey;
+
+}
+.main{
+    border:5px solid #1d1e4c;
+}
+.responsive{
+    width:20%;
+    height:34vh;
+    margin-top:100px;
+    margin-left:300px;
+    border-radius: 50%;
+}
+.header{
+    display: flex;
+}
+.title{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color:white;
+    margin-left: 250px;
+}
+.description{
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    text-align: justify;
+    width:50%;
+    margin-left:250px;
+}
+.about{
+    margin-left: 250px;
+    color:white;
+}
+.further_more{
+    margin-left:65%;
+}
